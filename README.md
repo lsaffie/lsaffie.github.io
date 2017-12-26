@@ -76,7 +76,7 @@ resoluteness    	| Perspective    		| have fun
 
 #### Growth Frameworks
 
-[https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524]
+<https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524>
 
 Ability to build software | Ability to learn and teach | Alignment with our values
 --------------------------|----------------------------|--------------------------
