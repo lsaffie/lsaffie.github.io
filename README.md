@@ -1,4 +1,4 @@
-# Principles
+# Table of Contents
 
 - [Principles](#principles)
   * [Hiring](#hiring)
@@ -12,6 +12,9 @@
     + [Meetings](#meetings)
   * [Business](#business)
   * [Books](#books)
+
+# Principles
+
 ## Hiring
 
 * [Hiring Rubik] (https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
