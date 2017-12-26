@@ -17,7 +17,7 @@
 
 ## Hiring
 
-* [Hiring Rubik] (https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
+* [Hiring Rubik](https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
 
 https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 
