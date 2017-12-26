@@ -1,5 +1,7 @@
 # Principles
 
+#TODO  Generate TOC
+
 ## Hiring
 
 * [Hiring Rubik] (https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
@@ -20,6 +22,9 @@ resoluteness    	| Perspective    		| have fun
 ## Management
 
 ### Operating Principles
+
+<https://getpocket.com/a/read/1791062140>
+
 
 ### Making decisions
 
