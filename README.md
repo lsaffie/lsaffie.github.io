@@ -31,11 +31,11 @@ resoluteness    	| Perspective    		| have fun
 
 * Describe how decisions are made
 
-(https://d33ypg4xwx0n86.cloudfront.net/direct?url=https%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FXB0QDRK4RtmJySNhwMmh_venn.jpg&resize=w1280)
+![Image ] (https://d33ypg4xwx0n86.cloudfront.net/direct?url=https%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FXB0QDRK4RtmJySNhwMmh_venn.jpg&resize=w1280)
 
 * Decentralize decision making
 
-(https://d33ypg4xwx0n86.cloudfront.net/direct?url=https%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FXDJQnIgrSDW051pYXFev_twobytwo.jpg&resize=w1280)
+![Image] (https://d33ypg4xwx0n86.cloudfront.net/direct?url=https%3A%2F%2Fs3.amazonaws.com%2Fmarquee-test-akiaisur2rgicbmpehea%2FXDJQnIgrSDW051pYXFev_twobytwo.jpg&resize=w1280)
 
 
 
