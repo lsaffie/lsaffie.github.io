@@ -1,3 +1,5 @@
+# Principles
+
 # Table of Contents
 
 - [Principles](#principles)
@@ -12,8 +14,6 @@
     + [Meetings](#meetings)
   * [Business](#business)
   * [Books](#books)
-
-# Principles
 
 ## Hiring
 
