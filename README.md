@@ -7,7 +7,6 @@
   * [Technology](#technology)
   * [Management](#management)
     + [Operating Principles](#operating-principles)
-    + [Making decisions](#making-decisions)
     + [1-1](#1-1)
     + [Teams](#teams)
       - [Growth Frameworks](#growth-frameworks)
@@ -54,8 +53,6 @@ resoluteness    	| Perspective    		| have fun
 
 
 
-
-### Making decisions
 
 ### 1-1
 
