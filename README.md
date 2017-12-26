@@ -2,6 +2,8 @@
 
 ## Hiring
 
+* [Hiring Rubik] (https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
+
 ## Technology
 
 ## Management
