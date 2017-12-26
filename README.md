@@ -15,6 +15,7 @@
 ### Teams
 
 #### Growth Frameworks
+
 https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524
 
 * Cancel all recurring meetings every so often to reset.
