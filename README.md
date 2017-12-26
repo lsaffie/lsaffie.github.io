@@ -17,6 +17,8 @@ Basic CS knowledge    	  | Communication    		| level up
 System design    	| Collaboration    		| time is precious
 resoluteness    	| Perspective    		| have fun
 
+* think of the people you've hired and rate them against this.
+
 ## Technology
 
 ## Management
@@ -24,6 +26,12 @@ resoluteness    	| Perspective    		| have fun
 ### Operating Principles
 
 <https://getpocket.com/a/read/1791062140>
+
+* Operating Principles: document way you work
+
+* Describe how decisions are made
+
+
 
 
 ### Making decisions
