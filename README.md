@@ -1,7 +1,17 @@
 # Principles
 
-#TODO  Generate TOC
-
+- [Principles](#principles)
+  * [Hiring](#hiring)
+  * [Technology](#technology)
+  * [Management](#management)
+    + [Operating Principles](#operating-principles)
+    + [Making decisions](#making-decisions)
+    + [1-1](#1-1)
+    + [Teams](#teams)
+      - [Growth Frameworks](#growth-frameworks)
+    + [Meetings](#meetings)
+  * [Business](#business)
+  * [Books](#books)
 ## Hiring
 
 * [Hiring Rubik] (https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
