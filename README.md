@@ -7,8 +7,9 @@
 https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f
 
 Ability to build software | Ability to learn and teach | Alignment with our values
-Problem solving    	  | Curiosity		| Trust
-Code fluency    Awareness    do hard things
+--------------------------|----------------------------|--------------------------|
+Problem solving    	      | Curiosity		               | Trust
+Code fluency              | Awareness                  |do hard things
 Autonomy    Empathy    instigage change
 Basic CS knowledge    Communication    level up
 System design    Collaboration    time is precious
