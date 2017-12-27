@@ -1,4 +1,5 @@
 > Principles are ways of successfully dealing with reality to get what you want out of life.
+
 Ray Dalio <https://www.principles.com/>
 
 # Principles
