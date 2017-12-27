@@ -1,5 +1,6 @@
 ---
 title: Posts
+permalink: pretty
 categories: readings
 ---
 

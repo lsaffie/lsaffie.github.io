@@ -1,5 +1,6 @@
 ---
 title: Principles
+permalink: pretty
 categories: readings
 ---
 
