@@ -1,6 +1,6 @@
 ---
 title: Home
-categories: 
+categories:
 ---
 
 # {{page.title }}
