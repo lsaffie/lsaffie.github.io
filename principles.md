@@ -27,6 +27,12 @@ Like Ray Dalio, I also realized that there are patterns in life that always appl
     * [Business](#business)
     * [Books](#books)
 
+# Family
+
+# Personal
+
+# Work
+
 ## Hiring
 
 * [Hiring Rubik](https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417)
