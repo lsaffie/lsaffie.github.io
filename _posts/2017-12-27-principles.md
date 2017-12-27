@@ -8,16 +8,19 @@ categories: readings
 # Table of Contents
 
 - [Principles](#principles)
-  * [Hiring](#hiring)
-  * [Technology](#technology)
-  * [Management](#management)
-    + [Operating Principles](#operating-principles)
-    + [1-1](#1-1)
-    + [Teams](#teams)
-      - [Growth Frameworks](#growth-frameworks)
-    + [Meetings](#meetings)
-  * [Business](#business)
-  * [Books](#books)
+  * Family
+  * Personal
+  * Work
+    * [Hiring](#hiring)
+    * [Technology](#technology)
+    * [Management](#management)
+      + [Operating Principles](#operating-principles)
+      + [1-1](#1-1)
+      + [Teams](#teams)
+        - [Growth Frameworks](#growth-frameworks)
+      + [Meetings](#meetings)
+    * [Business](#business)
+    * [Books](#books)
 
 ## Hiring
 
