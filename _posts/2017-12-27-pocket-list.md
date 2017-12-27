@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Pocket List
 categories: readings
 ---
