@@ -3,7 +3,7 @@ title: Principles
 categories: readings
 ---
 
-# Principles
+# {{page.title }}
 
 # Table of Contents
 
