@@ -1,3 +1,5 @@
+> Principles are ways of successfully dealing with reality to get what you want out of life. Ray Dalio <https://www.principles.com/>
+
 # Principles
 
 # Table of Contents
@@ -117,5 +119,7 @@ resoluteness  		| Perspective  	| have fun
 
 ## Books
 
-https://getpocket.com/@/share/2970916
+<https://getpocket.com/@/share/2970916>
+
+Principles are ways of successfully dealing with reality to get what you want out of life. Ray Dalio <https://www.principles.com/>
 
