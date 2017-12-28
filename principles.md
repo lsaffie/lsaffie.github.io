@@ -97,14 +97,12 @@ resoluteness    	| Perspective    		| have fun
 
 <https://medium.com/s/engineering-growth-framework/engineering-growth-framework-overview-4e02ab330524>
 
-Ability to build software | Ability to learn and teach | Alignment with our values
---------------------------|----------------------------|--------------------------
-Problem solving  	| Curiosity  	| Trust
-Code fluency  		| Awareness  	| do hard things
-Autonomy  		| Empathy  	| instigage change
-Basic CS knowledge  	| Communication | level up
-System design  		| Collaboration | time is precious
-resoluteness  		| Perspective  	| have fun
+Building    | Executing           | Supporting          | Strengthening
+------------|---------------------|---------------------|--------------
+Mobile      | Project Management  | Career Development  | Mentorship
+Web Client  | Communication       | Org Design          | Evangelism
+Foundations |  Craft              | Wellbeing           | Recruiting
+Servers     | Initiative          | Accomplishment      | Community
 
 ### Meetings
 
