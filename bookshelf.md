@@ -1,5 +1,5 @@
 ---
-title: Book List
+title: Bookshelf
 categories: readings
 ---
 
