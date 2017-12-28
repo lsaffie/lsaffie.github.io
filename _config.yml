@@ -1,3 +1,4 @@
 title:  lsaffie
 description: My notes and principles
 theme: jekyll-theme-slate
+plugins: ['jekyll-twitter-plugin']
