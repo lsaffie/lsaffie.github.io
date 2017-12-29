@@ -3,7 +3,7 @@ title: Home
 categories:
 ---
 
-{% include_relative principles.html %}
+{% include_relative principles.md %}
 
 ## Pages
 
