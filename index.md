@@ -3,7 +3,7 @@ title: Home
 categories:
 ---
 
-# {{page.title }}
+{% include principles.html %}
 
 ## Pages
 
