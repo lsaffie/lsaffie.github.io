@@ -10,7 +10,7 @@ Ray Dalio <https://www.principles.com/>
 
 > Three levels of thinking: `Thinking -> Principles -> Algorithms`
 
-> `Pain + Relction = Progress`
+> `Pain + Reflection = Progress`
 
 Like Ray Dalio, I also realized that there are patterns in life that always apply to the way one ones to live. Those are Principles. This page is a living document where I will record those that apply to me.
 
