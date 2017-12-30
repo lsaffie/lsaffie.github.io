@@ -12,3 +12,8 @@ categories:
 ## Posts
 
 {% include posts.html %}
+
+## Twitter Timeline
+
+{% include_relative twitter.html %}
+
