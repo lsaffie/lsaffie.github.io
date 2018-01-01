@@ -469,6 +469,14 @@ Full-Width Styles
   background: none;
   text-shadow: #111 0px 0px 10px; }
 
+#about_tagline {
+  color: #f2f2f2;
+  font-size: 13px;
+  font-weight: 400;
+  background: none;
+  text-shadow: #111 0px 0px 10px;
+  margin: 0; }
+
 #downloads {
   position: absolute;
   width: 210px;
