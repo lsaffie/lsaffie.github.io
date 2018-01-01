@@ -39,7 +39,7 @@ Like Ray Dalio, I also realized that there are patterns in life that always appl
 
 ## Hiring
 
-{% include_relative principles/hiring.md %}
+{% include_relative ../principles/hiring.md %}
 
 ## Technology
 
@@ -47,27 +47,27 @@ Like Ray Dalio, I also realized that there are patterns in life that always appl
 
 ### Operating Principles
 
-{% include_relative principles/operating_principles.md %}
+{% include_relative ../principles/operating_principles.md %}
 
 ### 1-1
 
 ### Teams
 
-{% include_relative principles/teams.md %}
+{% include_relative ../principles/teams.md %}
 
 #### Growth Frameworks
 
-{% include_relative principles/growth_frameworks.md %}
+{% include_relative ../principles/growth_frameworks.md %}
 
 ### Meetings
 
-{% include_relative principles/meetings.md %}
+{% include_relative ../principles/meetings.md %}
 
 ## Business
 
 ## Books
 
-{% include_relative principles/books.md %}
+{% include_relative ../principles/books.md %}
 
 Principles are ways of successfully dealing with reality to get what you want out of life. Ray Dalio <https://www.principles.com/>
 
