@@ -5,4 +5,4 @@ categories: readings
 
 # {{page.title }}
 
-{{ include posts.html }}
+{% include posts.html %}
