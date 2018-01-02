@@ -3,7 +3,9 @@ title: Home
 categories:
 ---
 
-{% include_relative principles.md %}
+## Posts
+
+{% include posts.html %}
 
 ## Pages
 
