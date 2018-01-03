@@ -10,7 +10,3 @@ categories:
 ## Pages
 
 {% include pages.html %}
-
-## Posts
-
-{% include posts.html %}
