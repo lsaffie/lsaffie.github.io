@@ -44,4 +44,4 @@ The number one problem I've encountered in most projects is not a technical or a
 * Version 1 release timeframe
 * Version n release timeframe
 
-Checklist here https://docs.google.com/document/d/1t4QcSjQdddHyeT7Kiq0H3ggfkgjT-_e0Fgiw7_oI7Rc/edit?usp=sharing
+Checklist here <https://docs.google.com/document/d/1t4QcSjQdddHyeT7Kiq0H3ggfkgjT-_e0Fgiw7_oI7Rc/edit?usp=sharing>
