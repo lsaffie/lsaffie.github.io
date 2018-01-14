@@ -7,12 +7,9 @@ categories: readings
 
 After running many projects, I've come to realize that they follow a pattern - of course! And that gives me an opportunity to make an algorithm for it.
 
+The number one problem I've encountered in most projects is not a technical or a domain issue. Instead, it's a communication or missalignment one. With that, Here's my checklist to avoid issues and increase chances of success.
 
-The number one problem I've encountered in most projects is not a technical or a domain issue. Instead, it's a communication or missalignment one. With that, Here's my checklist to avoid issues and increase chances of success
-
-Before you begin any project, be sure this document is filled out.
-
-1. Meet with all stakeholders of the project, including team members and fill this out together. Warning, it may be long and get heated but it's worth it.
+**Important: Meet with ALL stakeholders of the project, including team members and fill this out together. Warning: It may take long and get heated but it's worth it - Better have it all clear from the beggining than struggle throughout the project**
 
 
 ### Project
