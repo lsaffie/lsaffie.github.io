@@ -5,6 +5,8 @@ categories: readings
 
 # {{page.title }}
 
+![planning](/assets/images/goal.jpg)
+
 I've been thinking and doing a lot of planning. In fact, everyone does. I'm talking about planning a vacation, outing, kids, work, dating, life, etc. Surely, some more, some less but planning nonetheless.
 
 And yeah, I spotted a pattern in this and I am codifying it.
