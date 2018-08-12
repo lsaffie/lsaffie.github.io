@@ -3,7 +3,11 @@ title: Bookshelf
 categories: readings
 ---
 
-<span style="color: #382110">my read shelf:</span><br/><a href="https://www.goodreads.com/review/list/51363730?shelf=read" title="lsaffie's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)", rel="nofollow"><img border="0" alt="lsaffie's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg"></a>
+<span style="color: #382110">my read shelf:</span>
+<br/>
+<a href="https://www.goodreads.com/review/list/51363730?shelf=read" title="lsaffie's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)", rel="nofollow">
+  <img border="0" alt="lsaffie's book recommendations, liked quotes, book clubs, book trivia, book lists (read shelf)" src="https://www.goodreads.com/images/badge/badge1.jpg">
+</a>
 
 # {{page.title }}
 
