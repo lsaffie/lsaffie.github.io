@@ -6,7 +6,7 @@ categories: readings
 
 # {{page.title }}
 
-{% include goodreads_shelf.html %}
+{% include goodreadsshelf.html %}
 
 Book				| Title 		| Shelf |
 |-------------------------------|-----------------------|-------|
