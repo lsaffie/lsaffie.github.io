@@ -28,21 +28,25 @@ The crazy thing is that there's nothing new here, you hear and read it all the t
 
 ### Ax Command and control
 
+- Related to the Hiring point
+- Empower everyone to be their best. This is not done but treating them like children and giving them a step-by-step plan with minute by minute check-ins
+
 ### Celebrate successes
+
+- Everyone needs to enjoy their work and have fun while doing it. Celebration is a key compoenent
 
 ### People need to see and understand the big picture
 
 - Do this by over communicating
 - Show metrics
 
-## Hiring
+### Hiring
 
 - It doesn't make sense to hire smart people to tell them what to do; we hire smart people so that they can tell us what to do. (Steve Jobs)
 
 ### Find out the critical number you want to hit
 
 - Come up with a plan/owners to achieve the number
-
 
 ### Money
 
