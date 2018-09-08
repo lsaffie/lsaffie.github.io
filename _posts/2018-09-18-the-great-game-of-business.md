@@ -15,7 +15,7 @@ JACK STACK is Founder, President and CEO of SRC Holdings Corporation, a 100% Emp
 
 ## Summary
 
-This is one of the most influencial business books. Its entire concept is about how to run a business in a way where growth and success is the only way to go.
+This is one of the top 10 most influencial business books. Its entire concept revolves around how to run a business in a way where growth and success is the only way to go - know how to play this game.
 
 The key concept is to inspire people to do great work and the only way do that sustainably is by getting them own their domain and deliverables while supporting them with a proven process of metrics and continuous touch points.
 
