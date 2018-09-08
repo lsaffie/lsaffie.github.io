@@ -7,7 +7,7 @@ categories: readings
 
 Author: Jack Stack and Bo Burlingham
 
-https://www.amazon.ca/Great-Game-Business-Expanded-Updated/dp/0385348339
+[Link](https://www.amazon.ca/Great-Game-Business-Expanded-Updated/dp/0385348339)
 
 # About the Author
 
