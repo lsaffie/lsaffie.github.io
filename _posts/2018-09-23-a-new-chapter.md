@@ -11,4 +11,4 @@ It’s with a mix bag of feelings that I’m leaving [Homestars Inc](https://hom
 
 Lastly, I thank [Nancy Peterson](https://ca.linkedin.com/in/nancypeterson){:target="_blank"} for giving me the chance to work alongside her and help shape the culture/product and technology that powers Homestars today. Nancy, you’re a real inspiration and Homestars couldn’t be in better hands.
 
-As far as me, I’m thrilled to announce that I’m joining the incredibly talented team at [Wealthsimple](https://www.wealthsimple.com){:target="_blank"} as their Senior Director of Infrastructure Engineering. With such a talented group of people, culture and inspiring mission, it’s impossible not to feel inspired and excited for my next chapter!
+As far as me, I’m thrilled to announce that I’m joining the incredibly talented team at [Wealthsimple](https://www.wealthsimple.com){:target="_blank"} as their *Senior Director of Infrastructure Engineering*. With such a talented group of people, culture and inspiring mission, it’s impossible not to feel inspired and excited for my next chapter!
