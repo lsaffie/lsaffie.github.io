@@ -1,6 +1,6 @@
 ---
 title: Public Key
-categories: readings
+categories: public
 ---
 
 # {{page.title }}
