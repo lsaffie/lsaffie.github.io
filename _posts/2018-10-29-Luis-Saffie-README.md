@@ -7,8 +7,8 @@ categories: readings
 
 ## Table of Contents
 
-[Motivation](#motivation)
-[About me](#about me)
+[Motivation](#motivation)\
+[About me](#about\ me)
 
 [My role](#my role)
 
