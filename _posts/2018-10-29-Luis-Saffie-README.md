@@ -8,7 +8,21 @@ categories: readings
 ## Table of Contents
 
 [Motivation](#motivation)
-
+[About me](#about me)
+[My role](#my role)
+[Traits I value most](#traits I value most)
+[What I dislike](#what I dislike)
+[Our average week](#our average week)
+[Communication](#communication)
+[Principles](#principles)
+[Feedback protocol](#feedback protocol)
+[Expectations](#expectations)
+[Meetings](#meetings)
+[1:1s](#1:1s)
+[My recommendation to the first 90 days](#my recommendation to the first 90 days)
+[Books](#books)
+[References](#references)
+[Feedback](#feedback)
 
 ## Motivation
 
@@ -25,6 +39,7 @@ But adding to the above, I found this process useful as it allows for:
 2. Single source of truth → Less confusion
 3. A way to level the playing field → Everyone has access to the same information
 4. History tracking  via git 🤖 → You can understand how your thought process evolves over time
+
 
 Truth be told, I felt a bit weird about writing this as it may sound like “listen to me” type of reading, but it really is not. Its sole purpose is to serve you and me to do great work together. Also, I'm super open to feedback and encourage such.
 
@@ -66,7 +81,7 @@ My job as a manager is to make sure I do everything possible to support you in y
 * Be there for you when you need me
 * Give you opportunities to develop your career in the direction you want ⬆️
 
-## Traits I value the most
+## Traits I value most
 
 **Thoughtfulness**: When you take the time to think about a certain topic before giving an opinion
 
@@ -136,7 +151,7 @@ We will have many opportunities to provide each other feedback. My style is to g
 
 ## Expectations
 
-I am a believer in treat other the way you would like to be treated. See [Traits I value the most](https://quip.com/eNtQAslPhXCp#SOIACAV9Gp4) and [What I dislike](https://quip.com/eNtQAslPhXCp#SOIACATJhrC)
+I am a believer in treat other the way you would like to be treated. See [Traits I value most](https://quip.com/eNtQAslPhXCp#SOIACAV9Gp4) and [What I dislike](https://quip.com/eNtQAslPhXCp#SOIACATJhrC)
 
 From a day to day at work point of view, I expect you to:
 
@@ -178,7 +193,7 @@ http://lsaffie.com/readings/2017/12/31/principles.html#meetings
 
 http://lsaffie.com/readings/2017/12/27/one-on-ones.html
 
-## My recommendation to your first 90 days
+## My recommendation to the first 90 days
 
 I like to break this down in thirds
 
@@ -225,4 +240,4 @@ http://lsaffie.com/readings/2017/12/31/principles.html#meetings
 
 ## Feedback
 
-Feedback is encouraged and welcomed because just like most people, I'm far from perfect and always learning. Let me know your thoughts :)
+Feedback is encouraged and welcomed because just like most people, I’m far from perfect and always learning. Let me know your thoughts :)
