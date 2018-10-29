@@ -5,6 +5,11 @@ categories: readings
 
 # {{page.title }}
 
+## Table of Contents
+
+[Motivation](#motivation)
+
+
 ## Motivation
 
 I was made aware of this great idea of [Manager READMEs](https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe). What is that? Don't worry, I also thought the same thing,  If you search the web for it, you'll like find something like this:
