@@ -98,15 +98,15 @@ My job as a manager is to make sure I do everything possible to support you in y
 
 ## Traits I value most
 
-**Thoughtfulness**: When you take the time to think about a certain topic before giving an opinion
+**Thoughtfulness:** When you take the time to think about a certain topic before giving an opinion
 
-**Data/Numbers: **When you know your facts
+**Data/Numbers:** When you know your facts
 
-**Honesty: **If you know or don't know something, just say it. The first step to knowledge is accepting illiteracy
+**Honesty:** If you know or don't know something, just say it. The first step to knowledge is accepting illiteracy
 
-**Directness: **If you need to tell me something, just say it. Be sure you do it in a way that leaves no space for misinterpretation. I'll do the same
+**Directness:** If you need to tell me something, just say it. Be sure you do it in a way that leaves no space for misinterpretation. I'll do the same
 
-**Preparedness**: If you need my opinion on something, I expect you to come prepared with facts, documents, etc.
+**Preparedness:** If you need my opinion on something, I expect you to come prepared with facts, documents, etc.
 Interpersonal
 
 For all the points above, you can also expect the same from me. And if I don't do it, please call me out.
