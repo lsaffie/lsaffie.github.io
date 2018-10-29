@@ -18,7 +18,7 @@ categories: readings
 9. [Feedback protocol](#feedback-protocol)
 10. [Expectations](#expectations)
 11. [Meetings](#meetings)
-12. [1:1s](#1-1s)
+12. [1:1s](#11s)
 13. [My recommendation to the first 90 days](#my-recommendation-to-the-first-90-days)
 14. [Books](#books)
 15. [References](#references)
