@@ -7,22 +7,23 @@ categories: readings
 
 ## Table of Contents
 
-[Motivation](#motivation)\
-[About me](#about\ me)
+[Motivation](#motivation)
 
-[My role](#my role)
+[About me](#about-me)
 
-[Traits I value most](#traits I value most)
+[My role](#my-role)
 
-[What I dislike](#what I dislike)
+[Traits I value most](#traits-I-value-most)
 
-[Our average week](#our average week)
+[What I dislike](#what-I-dislike)
+
+[Our average week](#our-average-week)
 
 [Communication](#communication)
 
 [Principles](#principles)
 
-[Feedback protocol](#feedback protocol)
+[Feedback protocol](#feedback-protocol)
 
 [Expectations](#expectations)
 
@@ -30,7 +31,7 @@ categories: readings
 
 [1:1s](#1:1s)
 
-[My recommendation to the first 90 days](#my recommendation to the first 90 days)
+[My recommendation to the first 90 days](#my-recommendation-to-the-first-90-days)
 
 [Books](#books)
 
