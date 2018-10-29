@@ -8,20 +8,35 @@ categories: readings
 ## Table of Contents
 
 [Motivation](#motivation)
+
 [About me](#about me)
+
 [My role](#my role)
+
 [Traits I value most](#traits I value most)
+
 [What I dislike](#what I dislike)
+
 [Our average week](#our average week)
+
 [Communication](#communication)
+
 [Principles](#principles)
+
 [Feedback protocol](#feedback protocol)
+
 [Expectations](#expectations)
+
 [Meetings](#meetings)
+
 [1:1s](#1:1s)
+
 [My recommendation to the first 90 days](#my recommendation to the first 90 days)
+
 [Books](#books)
+
 [References](#references)
+
 [Feedback](#feedback)
 
 ## Motivation
