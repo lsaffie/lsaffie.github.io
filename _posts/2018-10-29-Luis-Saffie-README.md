@@ -13,9 +13,9 @@ categories: readings
 
 [My role](#my-role)
 
-[Traits I value most](#traits-I-value-most)
+[Traits I value most](#traits-i-value-most)
 
-[What I dislike](#what-I-dislike)
+[What I dislike](#what-i-dislike)
 
 [Our average week](#our-average-week)
 
@@ -29,7 +29,7 @@ categories: readings
 
 [Meetings](#meetings)
 
-[1:1s](#1:1s)
+[1:1s](#11s)
 
 [My recommendation to the first 90 days](#my-recommendation-to-the-first-90-days)
 
