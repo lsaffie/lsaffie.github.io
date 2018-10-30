@@ -128,7 +128,7 @@ Other than that, I am a fan of communication via writing. Once goals are clear. 
 
 ## Principles
 
-Once you do anything a number of times, you'll realize that there are usually patterns for many things. For those in software, think [Design Patters](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+Once you do anything a number of times, you'll realize that there are usually patterns for many things. For those in software, think [Design Patterns](https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
 
 I tend to codify everything I can and I'm always adding/removing items from my think process. Here are the ones that I find I refer to often
 
