@@ -1,7 +1,10 @@
-<ul>
-  {% for post in site.posts %}
-    <li>
-      {{post.date | date_to_string}} <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
+{% for category in site.categories %}
+  <li><a name="{{ category | first }}">{{ category | first }}</a>
+    <ul>
+    {% for post in category.last %}
+      <li>{{post.date | date_to_string}} <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
 </ul>
