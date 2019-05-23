@@ -1,6 +1,6 @@
 ---
 title: The Great CEO Within
-categories: Book Notes
+categories: BookNotes
 ---
 
 # {{page.title }}

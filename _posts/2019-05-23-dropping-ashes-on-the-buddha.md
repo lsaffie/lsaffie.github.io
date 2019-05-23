@@ -1,6 +1,6 @@
 ---
 title: Trillion Dollar Coach
-categories: Book Notes
+categories: BookNotes
 ---
 
 # {{page.title }}

@@ -1,6 +1,6 @@
 ---
 title: Turning the Flywheel
-categories: Book Notes
+categories: BookNotes
 ---
 
 # {{page.title }}
