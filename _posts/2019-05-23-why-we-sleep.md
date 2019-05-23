@@ -1,6 +1,6 @@
 ---
 title: Why We Sleep: Unlocking the Power of Sleep and Dreams
-categories: booknotes
+categories: readings
 ---
 
 # {{page.title }}
