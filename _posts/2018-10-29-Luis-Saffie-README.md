@@ -1,6 +1,6 @@
 ---
 title: Luis Saffie README
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}
@@ -180,7 +180,7 @@ Because meetings can easily become a big time sucker, I follow certain guideline
 * End on time
 * If a meeting must be recurrent, be sure they have an end date (12 months max)
 
-http://lsaffie.com/readings/2017/12/31/principles.html#meetings
+http://lsaffie.com/Posts/2017/12/31/principles.html#meetings
 
 ## 1:1s
 
@@ -191,7 +191,7 @@ http://lsaffie.com/readings/2017/12/31/principles.html#meetings
 * use [https://www.small-improvements.com](https://www.small-improvements.com/login) or something else but come prepared
 
 
-http://lsaffie.com/readings/2017/12/27/one-on-ones.html
+http://lsaffie.com/Posts/2017/12/27/one-on-ones.html
 
 ## My recommendation to the first 90 days
 
@@ -234,7 +234,7 @@ Many of the [Books](https://quip.com/eNtQAslPhXCp#SOIACA7R3nW) above
 
 [Pocket list](http://getpocket.com/@9eWTIA3bg3aN4pa1dtd1878d65p9g077c43b08Z80gT724Id7e451Y2ddc0Eab81)
 
-http://lsaffie.com/readings/2017/12/31/principles.html#meetings
+http://lsaffie.com/Posts/2017/12/31/principles.html#meetings
 
 ## Feedback
 

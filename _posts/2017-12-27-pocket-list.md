@@ -1,6 +1,6 @@
 ---
 title: Pocket List
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}

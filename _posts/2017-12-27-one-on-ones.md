@@ -1,6 +1,6 @@
 ---
 title: 1:1s
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}

@@ -1,6 +1,6 @@
 ---
 title: The Great Game of Business
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}

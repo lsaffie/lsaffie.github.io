@@ -1,6 +1,6 @@
 ---
 title: Public Key
-categories: public
+categories: Posts
 ---
 
 # {{page.title }}

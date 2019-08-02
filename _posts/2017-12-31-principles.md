@@ -1,6 +1,6 @@
 ---
 title: Principles
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}

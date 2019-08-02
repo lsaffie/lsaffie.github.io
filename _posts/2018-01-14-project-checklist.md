@@ -1,6 +1,6 @@
 ---
 title: Project checklist
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}

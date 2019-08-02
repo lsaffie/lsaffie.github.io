@@ -1,6 +1,6 @@
 ---
 title: A New Chapter
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}

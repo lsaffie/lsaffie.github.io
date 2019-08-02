@@ -1,6 +1,6 @@
 ---
 title: Planning in 5 Steps
-categories: readings
+categories: Posts
 ---
 
 # {{page.title }}
