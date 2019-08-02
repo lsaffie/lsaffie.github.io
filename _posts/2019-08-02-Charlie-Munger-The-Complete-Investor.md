@@ -1,5 +1,5 @@
 ---
-title: Charlie Munger: The Complete Investor
+title: Charlie Munger - The Complete Investor
 categories: BookNotes
 ---
 
@@ -8,9 +8,6 @@ categories: BookNotes
 ## Overview
 
 * Author: Tren Griffin
-
-## Notes
-
 
 ## General
 
