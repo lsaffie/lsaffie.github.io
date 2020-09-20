@@ -59,8 +59,8 @@
         $(this).attr('disabled', 'disabled');
 
         addon.api.getTransactions(getQueryFromOptions(addonOptions)).then(function (response) {
-          $('#result').html('List Transactions Result:<br><code>' + JSON.stringify(response) + '</code>');
-          console.log(response);
+          var jsonPretty = JSON.stringify(response, null '\t');
+          $('#result').html('List Transactions Result:<br><code>' + jsonPretty + '</code>');          
         }).catch(function (err) {
           $('#result').html('Error:<br><code>' + err + '</code>');
         }).finally(function () {
@@ -103,7 +103,7 @@
       function showAddonData(data, updateInput) {
         $('#result').html('Addon data:<br><code>' + JSON.stringify(data) + '</code>');
         if (updateInput && data) {
-          $('#data').val(JSON.stringify(data));
+l
         }
       }
 
