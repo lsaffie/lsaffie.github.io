@@ -60,6 +60,7 @@
 
         addon.api.getTransactions(getQueryFromOptions(addonOptions)).then(function (response) {
           $('#result').html('List Transactions Result:<br><code>' + JSON.stringify(response) + '</code>');
+          console.log(response);
         }).catch(function (err) {
           $('#result').html('Error:<br><code>' + err + '</code>');
         }).finally(function () {
