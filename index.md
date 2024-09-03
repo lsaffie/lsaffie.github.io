@@ -3,10 +3,10 @@ title: Home
 categories:
 ---
 
-### Notice
+### Looking for my latest thoughts?
 
-I've been storing my thought journey in X rather than my own website. If you're interested, you can follow me there.
-https://x.com/lsaffie
+I've been documenting my thought journey on a different platform. You can find me here:
+[Follow me on X (@lsaffie)](https://x.com/lsaffie)
 
 ## Posts
 
